@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./apply-leave.component.scss']
 })
 export class ApplyLeaveComponent {
-
+  adminLink = '/admin'
 }
